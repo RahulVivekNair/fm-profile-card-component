@@ -4,6 +4,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 
 ### Screenshot
+![image](https://user-images.githubusercontent.com/68507071/216786462-79357d60-7320-44a1-9d55-23e118fb7cbe.png)
 
 
 
